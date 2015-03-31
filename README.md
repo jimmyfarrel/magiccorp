@@ -1,4 +1,3 @@
-# magiccorp
 <html> 
 <head> 
 <title>Hello Guys!</title> 
