@@ -1,5 +1,4 @@
 # magiccorp
-<!DOCTYPE html> 
 <html> 
 <head> 
 <title>Hello Guys!</title> 
